@@ -1,0 +1,9 @@
+fastapi==0.75.2
+fastapi-users[beanie]==9.3.2
+fastapi-users-db-mongodb==1.1.0
+beanie==1.21.0
+motor==2.5.1
+pydantic==1.10.13
+uvicorn
+python-jose[cryptography]
+passlib[bcrypt]

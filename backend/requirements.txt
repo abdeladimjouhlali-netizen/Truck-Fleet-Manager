@@ -1,0 +1,9 @@
+beanie<=1.22.5
+pydantic<2.0.0
+fastapi-users-db-beanie==4.0.0
+fastapi-users
+fastapi
+motor
+uvicorn
+python-multipart
+email-validator
